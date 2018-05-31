@@ -17,12 +17,12 @@
   import Seat from 'Components/Seat.vue'
   import { pushToArray } from 'Others/lib'
   const config = {
-    apiKey: 'AIzaSyDRsXGKz0ha-0NyQVEy9WjBUkw5HsjUWMI',
-    authDomain: 'vuefirebasef.firebaseapp.com',
-    databaseURL: 'https://vuefirebasef.firebaseio.com',
-    projectId: 'vuefirebasef',
-    storageBucket: 'vuefirebasef.appspot.com',
-    messagingSenderId: '667997093730'
+    apiKey: 'AIzaSyCxMSYsRhTRLF4MPVcLFqN5Ki7VyjQErbc',
+    authDomain: 'movie-f9bae.firebaseapp.com',
+    databaseURL: 'https://movie-f9bae.firebaseio.com',
+    projectId: 'movie-f9bae',
+    storageBucket: 'movie-f9bae.appspot.com',
+    messagingSenderId: '839883163279'
   }
 
   const app = firebase.initializeApp(config)
